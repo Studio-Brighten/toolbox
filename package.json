@@ -1,0 +1,19 @@
+{
+  "name": "@studiobrighten/toolbox",
+  "version": "1.0.0",
+  "description": "Collection of JS helper functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Studio-Brighten/toolbox.git"
+  },
+  "author": "Studio Brighten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Studio-Brighten/toolbox/issues"
+  },
+  "homepage": "https://github.com/Studio-Brighten/toolbox#readme"
+}
